@@ -1,7 +1,6 @@
-﻿///  Mech 540-A  :  Assignment-8; Applications of complex_number_class
+///  Applications of complex_number_class
 ///
 ///  Name        :  Ajay Nalla
-///  Student ID  :  49640014
 ///  Source file :  cn_applications.cs
 ///  Purpose     :  To create a basic structure for a code base that demonstrates the applications of complex_number_class
 ///                 Uses complex_number_class; Conatains namespaces: control_systems, state_space_model, cryptography

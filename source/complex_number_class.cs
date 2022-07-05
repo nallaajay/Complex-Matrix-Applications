@@ -1,7 +1,6 @@
-﻿///  Mech 540-A  :  Complex_number_class with feature any size and feature element wise
+/// Complex_number_class with feature any size and feature element wise
 ///
 ///  Name        :  Ajay Nalla
-///  Student ID  :  49640014
 ///  Source file :  complex_number_class.cs
 ///  Purpose     :  To create a complex number class. 
 ///                 Contains complex_number_class namespace.
