@@ -1,23 +1,7 @@
-<<<<<<< HEAD
-###  Mech 540A 
-
-### Assignment : 8
-
-------
-
-**This project is created for Mech 540A Assignment -8; **
-=======
->>>>>>> 6af25084fc8e8915cfde6d8d4f69f0de2ab321f3
 
 **Objective of the assignment is to use the complex number class that can create and perform mathematical operations on complex numbers for any given size of matrix, and create a structure of code base to show some applications**
 
 * **Name** : **Nalla Ajay**
-<<<<<<< HEAD
-* **Student ID**: **49640014**
-
-
-=======
->>>>>>> 6af25084fc8e8915cfde6d8d4f69f0de2ab321f3
 
 ----
 
@@ -59,8 +43,5 @@ Published using Visual studio, Configuration: Release | Any cpu ; Target framewo
 
 **The zip file contains app.zip which contains all the necessary dll's and execuatble; source.zip contains the  source code.**
 
-<<<<<<< HEAD
-#### Author: Nalla Ajay
-=======
 #### Author: Nalla Ajay
 >>>>>>> 6af25084fc8e8915cfde6d8d4f69f0de2ab321f3
