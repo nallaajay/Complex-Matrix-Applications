@@ -1,10 +1,3 @@
-###  Mech 540A 
-
-### Assignment : 8
-
-------
-
-**This project is created for Mech 540A Assignment -8; **
 
 **Objective of the assignment is to use the complex number class that can create and perform mathematical operations on complex numbers for any given size of matrix, and create a structure of code base to show some applications**
 
